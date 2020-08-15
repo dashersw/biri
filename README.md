@@ -18,12 +18,12 @@ If you are a commercial entity, you can purchase a non-GPL license which will gi
 
 ## Browser support
 # supported
-* Google Chrome +80 ( windows)
+* Google Chrome +80
 # Non supported
 * Firefox
 * Opera
 * Safari
-* For PWA it's won't work Offline ( need to have a network connection )
+* PWA (it won't work offline as it needs to have a network connection)
 
 
 ## Installing
