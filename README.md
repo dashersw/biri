@@ -17,6 +17,14 @@ The primary use of `biri` is applications built for anonymous users where one wa
 If you are a commercial entity, you can purchase a non-GPL license which will give you rights to use it commercially without sharing source code. Please contact the authors for licensing details.
 
 ## Browser support
+# supported
+* Google Chrome +80 ( windows)
+# Non supported
+* Firefox
+* Opera
+* Safari
+* For PWA it's won't work Offline ( need to have a network connection )
+
 
 ## Installing
 
