@@ -1,6 +1,6 @@
 {
   "name": "biri",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A unique, static client ID generator for browser applications",
   "main": "index.js",
   "scripts": {
