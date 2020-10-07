@@ -19,10 +19,11 @@ If you are a commercial entity, you can purchase a non-GPL license which will gi
 ## Browser support
 # Supported
 * Google Chrome +80
+* Safari
+* Microsoft Edge
 # Not supported (yet)
 * Firefox
 * Opera
-* Safari
 * PWA (it won't work offline as it needs to have a network connection)
 
 
