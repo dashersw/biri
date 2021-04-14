@@ -60,7 +60,7 @@ const uniqueId = await biri() // the returned ID will be unique per computer
 In the browser:
 
 ```html
-<script src="https://unpkg.com/biri/dist/biri.js"></script>
+<script src="https://unpkg.com/biri/dist/biri.min.js"></script>
 
 <script>
   const uniqueId = await biri() // the returned ID will be unique per computer
